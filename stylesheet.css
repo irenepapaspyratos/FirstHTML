@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  font-family:fantasy;
+}
+
+
+header {
+  background-color: rgba(255, 137, 20, 0.26);
+  text-align: center;
+}
+
+nav>ul {
+  list-style: none;
+}
+
+footer {
+  margin-top: 20px;
+  background-color: rgba(255, 137, 20, 0.26);
+  min-height: 100px;
+}
+
+section {
+  border: brown solid 3px;
+  padding: 10px;
+
+}
+
+hr {
+  color: blue;
+}
+
+a {
+  color: brown;
+}
+
+article {
+  margin: 50px auto 50px auto;
+  padding: 5px;
+
+  border-radius: 10px;
+  background-color: #c1d9da;
+}
